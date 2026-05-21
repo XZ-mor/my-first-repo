@@ -26,7 +26,7 @@ This file is yours. Use it however helps you most. Some ideas to get started:
 
 > *A space to list courses you might apply generative AI to.*
 
-- ​
+- ​Business Statistics
 
 ---
 
